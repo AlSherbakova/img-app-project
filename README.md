@@ -1,3 +1,5 @@
+Проект в фигме: (https://www.figma.com/design/cfjNgiWJPkvau27iAwdEFJ/Untitled?node-id=0-1&t=z6hNSPq3pgTrNyMZ-1).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
